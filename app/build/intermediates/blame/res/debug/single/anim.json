@@ -8,12 +8,12 @@
         "source": "D:\\AndroidProjects\\RelaxMedia2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\RelaxMedia2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "D:\\AndroidProjects\\RelaxMedia2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
         "merged": "D:\\AndroidProjects\\RelaxMedia2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
         "source": "D:\\AndroidProjects\\RelaxMedia2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\AndroidProjects\\RelaxMedia2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\AndroidProjects\\RelaxMedia2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\anim\\design_snackbar_out.xml"
     },
     {
         "merged": "D:\\AndroidProjects\\RelaxMedia2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
